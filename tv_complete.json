@@ -160,21 +160,21 @@
         {
             "key": "csp_猫群-----------贺岁1",
             "name": "猫迷剧场【1】",
-            "type": 0,
+            "type": 3,
             "api": "csp_AppYs",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "ext": "https://myaixixi.com/api.php/app/"
         },
         {
             "key": "csp_猫群-----------贺岁2",
             "name": "猫迷剧场【2】",
-            "type": 0,
+            "type": 3,
             "api": "csp_AppYs",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
             "ext": "https://www.bcwzg.com/api.php/app/"
         },
         {
@@ -1379,7 +1379,7 @@
                     ]
                 },
                 {
-                    "name": "CCTV-第一剧场 5fps",
+                    "name": "CCTV-第一剧场5fps",
                     "urls": [
                         "http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls"
                     ]
@@ -4716,6 +4716,6 @@
         "cdnjs.hnfenxun.com",
         "cms.qdwght.com"
     ],
-    "wallpaper": "https://picsum.photos/1080/",
-    "spider": "https://cncncloud.com/api/v3/file/source/3064086/S_custom_spider.jar?sign=Ukm6YDT5i2ycisEVT5UXLXJLOlhaue1CWaPrVQmOonY%3D%3A0"
+    "wallpaper": "https://m31508.jp.cdjxt.net/bzapi.php",
+    "spider": "https://gitee.com/pglblb6688/pglblb6688/raw/main/custom_spider_mxpm.jar"
 }
